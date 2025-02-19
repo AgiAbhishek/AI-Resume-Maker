@@ -13,6 +13,11 @@ Users can enter their details, job roles, and skills, and the AI **formats, rewr
 
 ---
 
+## 🚀 Deployment
+
+This project is deployed on **Streamlit Cloud** and is accessible at:  
+🔗 **[AI Resume Generator - Live Demo](https://ai-resume-generator.streamlit.app/)**
+
 ## ✅ Features
 
 ✔ **Instant AI-generated resumes & cover letters**  
